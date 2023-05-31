@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Mariela",
+      "age": 56,
+      "email": "mariela@corre.com",
+      "password": "$2y$10$Jq8Wih5m3yVaeY55HkOouO1i58EbREWC32JmFHDTPJcbNSAUUuC5W",
+      "id": 1
+    },
+    {
+      "name": "Andres",
+      "age": 22,
+      "email": "paleto@corre.com",
+      "password": "$2y$10$cTwk6vhv0YWmB0LRsmIvGuSNlzOlcqAFq1cBJMvAkoZDbaxsAytR2",
+      "id": 2
+    },
+    {
+      "name": "Cesar",
+      "age": 31,
+      "email": "cesar@corre.com",
+      "password": "56",
+      "id": 3
+    }
+  ]
+}
